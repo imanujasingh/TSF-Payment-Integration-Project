@@ -1,0 +1,22 @@
+main{
+  background-color:#f8edeb;
+}
+h1{
+  font-family: "Sacramento", cursive;
+  text-align: center;
+  color:black;
+}
+.carousel-inner .item img {
+  height: 50%;
+  width: 100% !important;
+}
+h2{
+  text-align:justify;
+  color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+footer{
+  background-color:black;
+}
+
